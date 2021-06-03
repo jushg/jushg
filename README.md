@@ -1,4 +1,5 @@
-### Hi there 👋 I’m currently a Computer Engineering student at NUS, with special interest in Robotics and Software Engineering. 
+### Hi there, I'm Tan 👋 
+💬 I’m currently a Computer Engineering student at NUS, with special interest in Robotics and Software Engineering. 
 
 I like browsing cat pictures, watching dramma on Netflix, and coding (obviously not at the same time).
 
