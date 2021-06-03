@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I’m currently a Computer Engineering student at NUS, with special interest in Robotics and Software Engineering. 
+
+I like browsing cat pictures, watching dramma on Netflix, and coding (obviously not at the same time).
 
 <!--
 **jushg/jushg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
