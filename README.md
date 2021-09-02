@@ -11,8 +11,8 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Trong Tan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jushg&show_icons=true&hide_border=true&count_private=true&theme=nord" />
-  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushg&layout=compact" />
+  <img align="center" alt="Trong Tan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jushg&show_icons=true&hide_border=true&count_private=true&theme=nord" />
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushg&layout=compact" />
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jushg&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 </details>
