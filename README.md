@@ -1,11 +1,10 @@
-<h2> Hello World! I'm Tan <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />  </h2>
+<h2> Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />  </h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=DD58C1&lines=Currently+procrastinating...)](https://github.com/DenverCoder1/readme-typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Hoang+Trong+Tan;Will+code+for+fun;Or+for+coffee" />
 
-- 📔  Education: Year 2 Computer Engineering @NUS
-- 🌱  Learning: Software Engineering &amp; Robotics
-- 🎯  Goal: Build something cool
-- ❤️  Interest: Swimming, Cats, K-Dramas
+- 📔  I'm currently studying Computer Engineering @ NUS
+- 🌱  My current interests are Backend Software Engineering and Robotics
+- 🎯  My goal: Build something cool
   
 
 <h3> 📫 How to reach me: </h3>
@@ -17,6 +16,7 @@
   <img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
 
 ---
 <details>
