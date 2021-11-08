@@ -1,6 +1,6 @@
 <h2> Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />  </h2>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=Hoang+Trong+Tan;Will+code+for+fun;Or+for+coffee" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=I'm+Tan;Will+code+for+fun...;or+for+coffee" />
 
 - 📔  I'm currently studying Computer Engineering @ NUS
 - 🌱  My current interests are Backend Software Engineering and Robotics
@@ -17,7 +17,6 @@
 </a>
 </p>
 
-
 ---
 <details>
   <summary>:zap: My GitHub Stats</summary>
@@ -26,7 +25,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jushg&langs_count=10&theme=nord&hide_rank=true&layout=compact"/>
   </div>
   
- 
-<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jushg&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 </details>
