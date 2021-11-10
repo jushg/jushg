@@ -1,10 +1,9 @@
 <h2> Hello World!<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="20px" />  </h2>
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=I'm+Tan;Will+code+for+fun...;or+for+coffee" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&height=18&width=300&vCenter=true&lines=I'm+Tan;I+write+code...+sometimes;" />
 
-- 📔  I'm currently studying Computer Engineering @ NUS
-- 🌱  My current interests are Backend Software Engineering and Robotics
-- 🎯  My goal: Build something cool
+- 📔  Currently studying Computer Engineering @ NUS
+- 🎯  My current interests are Backend Software Engineering and Robotics
   
 
 <h3> 📫 How to reach me: </h3>
