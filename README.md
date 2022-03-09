@@ -1,11 +1,11 @@
 
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hi+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;I'm+Tan;I+write+code..+sometimes;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+<𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!;My+name+is+Tan;I+write+code...sometimes;" />
 </p>
 
 <p align="center">
-  <i >More about me around the web:</i><br>
+  <i >More about me around here and there:</i><br>
 </p>
 
 <p align="center">  
