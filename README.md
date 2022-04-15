@@ -3,7 +3,7 @@
 
 [![Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jushg&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
 
- <i >More about me around here and there:</i>
+ <i >More about me:</i>
  <br>
 
  <a href="https://www.linkedin.com/in/tan-ht/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
