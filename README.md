@@ -1,8 +1,8 @@
-<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;My+name+is+Tan;I+write+code...sometimes;" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=016EEA&width=300&vCenter=true&lines=Hello+World!;My+name+is+Tan;I+code+and+drink+coffee;" />
 
 
-[![Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jushg&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Tan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jushg&show_icons=true&icon_color=586069&text_color=586069&bg_color=fff&line_height=30&hide_title=true&title_color=0366d6)](https://github.com/anuraghazra/github-readme-stats)
+ -->
  <i >More about me:</i>
  <br>
  
